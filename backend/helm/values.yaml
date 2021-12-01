@@ -53,6 +53,6 @@ affinity: {}
 vars:
   GOOGLE_APPLICATION_CREDENTIALS: /google_cred
  
-host_dns: "openft.ulam.io"
+host_dns: "artspace.live"
 
 secrets: {}
